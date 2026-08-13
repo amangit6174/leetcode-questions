@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/amangit6174/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/amangit6174/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/amangit6174/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amangit6174/leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/amangit6174/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/amangit6174/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amangit6174/leetcode-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amangit6174/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -262,10 +264,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/amangit6174/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/amangit6174/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amangit6174/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Ordered Set
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amangit6174/leetcode-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/amangit6174/leetcode-questions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

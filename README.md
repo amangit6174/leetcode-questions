@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/amangit6174/leetcode-questions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/amangit6174/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/amangit6174/leetcode-questions/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/amangit6174/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amangit6174/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Ordered Set
 |  |

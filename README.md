@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/amangit6174/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amangit6174/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/amangit6174/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amangit6174/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amangit6174/leetcode-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amangit6174/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/amangit6174/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amangit6174/leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/amangit6174/leetcode-questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/amangit6174/leetcode-questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/amangit6174/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/amangit6174/leetcode-questions/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/amangit6174/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amangit6174/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/amangit6174/leetcode-questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/amangit6174/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amangit6174/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Ordered Set
 |  |

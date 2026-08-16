@@ -10,21 +10,63 @@
  */
 class Solution {
 public:
-    ListNode* sortList(ListNode* head) {
-        vector<int>v;
+    ListNode* midLL(ListNode* low, ListNode* high){
+        ListNode* slow=low;
+        ListNode* fast=low;
+        while(fast!=high && fast->next!=high){
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        return slow;
+    }
+    void mergeLL(ListNode* low, ListNode* mid, ListNode* high){
+        vector<int> v;
+        ListNode* left=low;
+        ListNode* right=mid->next;
+
+        while(left!=mid->next && right!=high->next){
+            if(left->val <= right->val){
+                v.push_back(left->val);
+                left=left->next;
+            }else{
+                v.push_back(right->val);
+                right=right->next;
+            }
+        }
+        while(left!=mid->next){
+            v.push_back(left->val);
+            left=left->next;
+        }
+        while(right!=high->next){
+            v.push_back(right->val);
+            right=right->next;
+        }
+        ListNode* curr=low;
+        for(auto it: v){
+            curr->val=it;
+            curr=curr->next;
+        }
+
+    }
+    void mergesortLL(ListNode* low, ListNode* high){
+        if(low==high){
+            return;
+        }
+        ListNode* mid=midLL(low, high);
+
+        mergesortLL(low, mid);
+        mergesortLL(mid->next, high);
+        mergeLL(low,mid,high);
+    }
+    ListNode* sortList(ListNode* head){
+        if(head==NULL){
+            return NULL;
+        }
         ListNode* temp=head;
-        while(temp){
-            v.push_back(temp->val);
+        while(temp->next!=NULL){
             temp=temp->next;
         }
-        sort(v.begin(),v.end());
-        ListNode* x=head;
-        int i=0;
-        while(x){
-            x->val=v[i];
-            i++;
-            x=x->next;
-        }
+        mergesortLL(head, temp);
         return head;
     }
 };
